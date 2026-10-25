@@ -1,3 +1,11 @@
+# ContextQA Testing Lab — Salesforce · Lightning / LWC
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [trailheadapps/ebikes-lwc](https://github.com/trailheadapps/ebikes-lwc). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # E-Bikes Lightning Web Components Sample Application
 
 [![CI](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml/badge.svg)](https://github.com/trailheadapps/ebikes-lwc/actions/workflows/ci.yml) [![codecov](https://codecov.io/gh/trailheadapps/ebikes-lwc/branch/main/graph/badge.svg)](https://codecov.io/gh/trailheadapps/ebikes-lwc)

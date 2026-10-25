@@ -1,0 +1,47 @@
+{
+  "title": "Salesforce \u00b7 Lightning / LWC",
+  "upstream": "https://github.com/trailheadapps/ebikes-lwc",
+  "upstream_commit": "57c3b43e443802a0568283f996ad39c12ea74cda",
+  "tags": [
+    "Salesforce",
+    "Lightning",
+    "LWC",
+    "Apex",
+    "enterprise"
+  ],
+  "environment": "salesforce-org",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "salesforce-lwc-01",
+      "title": "Product search",
+      "assertion": "A seeded product is returned by the intended search.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-lwc-02",
+      "title": "Filtering",
+      "assertion": "The selected product filters produce the expected fixture subset.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-lwc-03",
+      "title": "Product detail",
+      "assertion": "The detail matches the selected catalog product.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-lwc-04",
+      "title": "Reseller journey",
+      "assertion": "The chosen supported reseller workflow produces its specified result.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "salesforce-lwc-05",
+      "title": "Permission boundary",
+      "assertion": "A separately configured restricted test user cannot perform the protected action chosen for the exercise.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
